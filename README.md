@@ -1,2 +1,8 @@
-# React-Bookstore
-A React-Relay project for GparhQL introduction 
+# AcadGild - Web application development with React and Relay
+
+
+#### To Build
+Run: `npm install`
+
+### To start:
+Run: `npm start`
